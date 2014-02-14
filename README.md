@@ -1,4 +1,7 @@
-# [gulp](https://github.com/wearefractal/gulp)-angular-extender [![Build Status](https://secure.travis-ci.org/mariocasciaro/gulp-angular-extender.png?branch=master)](https://travis-ci.org/mariocasciaro/gulp-angular-extender) [![NPM version](https://badge.fury.io/js/gulp-angular-extender.png)](http://badge.fury.io/js/gulp-angular-extender) [![Dependency Status](https://gemnasium.com/mariocasciaro/gulp-angular-extender.png)](https://gemnasium.com/mariocasciaro/gulp-angular-extender)
+[![Build Status](https://secure.travis-ci.org/mariocasciaro/gulp-angular-extender.png?branch=master)](https://travis-ci.org/mariocasciaro/gulp-angular-extender)
+[![NPM version](https://badge.fury.io/js/gulp-angular-extender.png)](http://badge.fury.io/js/gulp-angular-extender) 
+[![Dependency Status](https://gemnasium.com/mariocasciaro/gulp-angular-extender.png)](https://gemnasium.com/mariocasciaro/gulp-angular-extender)
+# [gulp](https://github.com/wearefractal/gulp)-angular-extender
 
 > Extend AngularJS applications by injecting module dependencies at build time.
 
